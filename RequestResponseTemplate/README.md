@@ -13,4 +13,4 @@ Base template to make a Burp Suite extension that can process Request/Response +
 - Result jar file is in `./build/libs/<EXT_NAME>-<VERSION>-all.jar` 
 
 ## TODO:
-- Improve Helper class to support json data.
+- ~~Improve Helper class to support json data.~~
